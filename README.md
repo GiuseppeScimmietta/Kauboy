@@ -1,3 +1,14 @@
 # Kauboy
 Kauboy
-<span style="color:blue">some *This is Blue italic.* text</span>
+
+step("sdfsdfsfsdf"):
+    OPC.Connect()
+    realize(setSpeedReference):
+        Drive.setSpeed(refSpeed)
+        setMove =Drive.move()
+    observe:
+        speed = readSpeed()*100 
+        moving = readStatus()
+    expect:
+        moving = true
+        intolerance =  speed > Speed Tolerance
