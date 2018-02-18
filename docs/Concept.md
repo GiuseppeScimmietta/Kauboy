@@ -16,8 +16,8 @@ e.g.
 ### PLY
 
 References:
-- general intro to PLY:  [plyTalk slides](http://www.dabeaz.com/ply/PLYTalk.pdf)
-- documentation:  [plyTalk slides](http://www.dabeaz.com/ply/PLYTalk.pdf)
+⋅⋅⋅ - general intro to PLY:  [plyTalk slides](http://www.dabeaz.com/ply/PLYTalk.pdf)
+⋅⋅⋅ - documentation:  [plyTalk slides](http://www.dabeaz.com/ply/PLYTalk.pdf)
 
 Purify code
 --------------------------
