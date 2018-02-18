@@ -19,4 +19,4 @@ Given a Labelled BNF grammar the tool produces:
 - a pretty-printer as a Haskell/Java/C++/C module
 - a Latex file containing a readable specification of the language
 
-*More information*: [haskell platform](https://www.haskell.org/platform/)
+*genaral into to PLY*: [plyTalk slides](http://www.dabeaz.com/ply/PLYTalk.pdf)
