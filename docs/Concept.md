@@ -18,7 +18,7 @@ e.g.
 
 External references:
 - general intro to PLY:  [plyTalk slides](http://www.dabeaz.com/ply/PLYTalk.pdf)
-- ZLexer: [example of Python code PLY based lexer]: https://github.com/woshifyz/zlang/blob/master/zlexer.py
+- ZLexer: [example of Python code PLY based lexer](https://github.com/woshifyz/zlang/blob/master/zlexer.py)
 
 Purify code
 --------------------------
