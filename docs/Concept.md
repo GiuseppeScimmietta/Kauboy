@@ -14,10 +14,10 @@ e.g.
 
 
 ### PLY
+[Documentation](http://www.dabeaz.com/ply/ply.html#ply_nn36)
 
-References:
+External references:
 - general intro to PLY:  [plyTalk slides](http://www.dabeaz.com/ply/PLYTalk.pdf)
-- documentation:  [Documentation](http://www.dabeaz.com/ply/ply.html#ply_nn36)
 - ZLexer: [example of Python code PLY based lexer]: https://github.com/woshifyz/zlang/blob/master/zlexer.py
 
 Purify code
