@@ -11,7 +11,7 @@ Purpose of Pre-Lexing is to find kauboy specific keywords (statements) within th
 e.g.
 (EXPECT_STM, "expect", 10, 2)
 
-###PLY
+### PLY
 
 References:
 - general intro to PLY:  [plyTalk slides](http://www.dabeaz.com/ply/PLYTalk.pdf)
