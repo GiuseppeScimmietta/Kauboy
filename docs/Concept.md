@@ -16,8 +16,9 @@ e.g.
 ### PLY
 
 References:
-⋅⋅⋅ - general intro to PLY:  [plyTalk slides](http://www.dabeaz.com/ply/PLYTalk.pdf)
-⋅⋅⋅ - documentation:  [plyTalk slides](http://www.dabeaz.com/ply/PLYTalk.pdf)
+- general intro to PLY:  [plyTalk slides](http://www.dabeaz.com/ply/PLYTalk.pdf)
+- documentation:  [Documentation](http://www.dabeaz.com/ply/ply.html#ply_nn36)
+- ZLexer: [example of Python code PLY based lexer]: https://github.com/woshifyz/zlang/blob/master/zlexer.py
 
 Purify code
 --------------------------
