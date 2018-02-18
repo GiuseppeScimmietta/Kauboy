@@ -1,7 +1,7 @@
 Concept Sandbox
 =================
 
-[Lexing, Parsing and Inerpreting the code](http://www.dabeaz.com/ply/ply.html#ply_nn36)
+[Lexing, Parsing and Inerpreting the code](http://www.jayconrod.com/posts/37/a-simple-interpreter-from-scratch-in-python-part-1)
 A simple interpreter from scratch in Python (part 1)
 
 Pre-Lexing
