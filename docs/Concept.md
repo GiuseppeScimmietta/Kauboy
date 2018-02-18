@@ -13,8 +13,7 @@ e.g.
 (EXPECT_STM, "expect", 10, 2)
 
 
-#### PLY
-[Documentation](http://www.dabeaz.com/ply/ply.html#ply_nn36)
+#### PLY [Documentation](http://www.dabeaz.com/ply/ply.html#ply_nn36)
 
 External references:
 - plyTalk slides:  [Intro to PLY](http://www.dabeaz.com/ply/PLYTalk.pdf)
