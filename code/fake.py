@@ -1,4 +1,4 @@
 expect:
 
-  print("aaa")
-  1/0
+  print("bbb")
+  b = 1/0
