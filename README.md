@@ -9,13 +9,13 @@ print s
 
 step("sdfsdfsfsdf"):
     OPC.Connect()
-    realize(setSpeedReference):
+    - realize(setSpeedReference):
         Drive.setSpeed(refSpeed)
         setMove =Drive.move()
-    observe:
+    - observe:
         speed = readSpeed()*100 
         moving = readStatus()
-    expect:
+    - expect:
         moving = true
         intolerance =  speed > Speed Tolerance
 ```
