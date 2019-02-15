@@ -1,5 +1,7 @@
-if True:
+def raiseError():
+    return 1/0
 
-  print("aaa")
-  1/0
+if True:
+    print("aaa")
+    raiseError()
 
